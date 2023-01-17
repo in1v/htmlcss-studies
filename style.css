@@ -4,6 +4,7 @@
 
 body {
     text-align: center;
+    background-image: url(https://media.tenor.com/Yzw3PsF38-AAAAAC/emoji-wacky.gif);
     background-color: rgba(0, 149, 255, 0.288);
     margin:10px;
     font-size: 30px;
@@ -19,10 +20,8 @@ body {
 }
 
 a, button {
-    font-size: 10px;
-    font-size: 30px;
-    padding: 5px;
-    margin: 2px;
+    padding: 40px;
+    font-size: 50px;
     color: brown
 }
 
