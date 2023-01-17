@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: rgba(0, 149, 255, 0.288);
+    margin:10px;
+    font-size: 30px;
+}
+
+
+
+#titulo1 {
+    font-size: 45px;
+    font-family: 'PT Sans Narrow';
+    text-align: center;
+    color: rgb(4, 0, 255);
+}
+
+a, button {
+    font-size: 10px;
+    font-size: 30px;
+    padding: 5px;
+    margin: 2px;
+    color: brown
+}
+
+.sugg{
+    color: yellowgreen;
+}
+
+
+
